@@ -1,2 +1,2 @@
 # ChaiClient
-A modern Minecraft client for the chain launcher
+A modern Minecraft client for the chai launcher
